@@ -18,8 +18,8 @@ export const config = {
             originBlacklist: null
         },
         server: {
-            host: "no",
-            port: 46625
+            host: "play.thanatos-network.xyz",
+            port: 4297
         },
         tls: undefined
     }
